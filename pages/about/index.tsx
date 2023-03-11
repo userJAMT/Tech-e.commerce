@@ -25,7 +25,7 @@ export default function About() {
               className={styles.names}
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.linkedin.com/in/andres-gomez-restrepo"
+              href='https://www.linkedin.com/in/andres-gomez-restrepo'
             >
               Ricardo Gómez
             </a>
